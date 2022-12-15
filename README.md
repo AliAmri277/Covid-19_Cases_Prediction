@@ -13,7 +13,7 @@
         -Check the data by plotting the graph.
 
 #### 4. Data Preprocessing
-        -Reshape the 'cases_new' from thrain data into 2D shape.
+        -Reshape the 'cases_new' from train data into 2D shape.
         -Normalize the feature using MinMaxScaler where the data range is normalized into 0 to 1.
         -Split the data into train and validation data
         
